@@ -3,7 +3,7 @@
   <img src="banner.png" alt="Banner" />
 </p>
 
-<h1 align="center">🌙 Yamin</h1>
+<h1 align="center">👨🏻‍💻 MD Sazzadur Rahman Yamin</h1>
 <h3 align="center">⚡ MERN Stack Developer | Learner | Explorer</h3>
 
 ---
