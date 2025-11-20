@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://your-dark-neon-banner-link.com/banner.png" alt="Banner" />
+  <img src="banner.png" alt="Banner" />
 </p>
 
 <h1 align="center">🌙 Yamin</h1>
