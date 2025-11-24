@@ -26,7 +26,7 @@ Hello, I’m a MERN stack web developer who loves learning new technologies, bui
 <p align="left">
 
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=js,ts,python,lua" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 
   <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=react,next,tailwind" />
